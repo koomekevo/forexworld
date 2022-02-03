@@ -15,7 +15,7 @@ https://www.loom.com/share/5d6e42fe5fc84314a5757e6da565b5e4
 
 ### Cryptos Page
 
-![](./src/assets/crypto.png)
+![](./src/assets/crypto3.png)
 
 ### My Profile Page
 
