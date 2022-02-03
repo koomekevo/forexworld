@@ -2,6 +2,19 @@
 
 This app displays popular securities traded in the financial world as pairs i.e currencies, cryptocurrencies or a mixture of both from [Stock API](https://financialmodelingprep.com/developer/docs/) 
 
+# Screenshots
+### Home Page
+
+![](./src/images/home.png)
+
+### Cryptos Page
+
+![](./src/images/crypto.png)
+
+### My Profile Page
+
+![](./src/images/stocks.png)
+
 ## Built With
 
 - React.js
@@ -42,6 +55,10 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+I have followed the [design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) given by [Nelson Sakwa in Behance](https://www.behance.net/sakwadesignstudio)
 
 ## 📝 License
 
