@@ -2,6 +2,9 @@
 
 This app displays popular securities traded in the financial world as pairs i.e currencies, cryptocurrencies or a mixture of both from [Stock API](https://financialmodelingprep.com/developer/docs/) 
 
+# Live Demo
+https://koomekevo-forexworld.netlify.app/
+
 # Screenshots
 ### Home Page
 
