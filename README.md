@@ -5,15 +5,15 @@ This app displays popular securities traded in the financial world as pairs i.e 
 # Screenshots
 ### Home Page
 
-![](./src/images/home.png)
+![](./src/assets/home.png)
 
 ### Cryptos Page
 
-![](./src/images/crypto.png)
+![](./src/assets/crypto.png)
 
 ### My Profile Page
 
-![](./src/images/stocks.png)
+![](./src/assets/stock.png)
 
 ## Built With
 
