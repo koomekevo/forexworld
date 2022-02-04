@@ -6,7 +6,7 @@ This app displays popular securities traded in the financial world as pairs i.e 
 https://koomekevo-forexworld.netlify.app/
 
 # Presentation 
-https://www.loom.com/share/5d6e42fe5fc84314a5757e6da565b5e4
+https://www.loom.com/share/5127c260d47f40429608b74a1869f1e8
 
 # Screenshots
 ### Home Page
