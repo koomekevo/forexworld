@@ -2,6 +2,25 @@
 
 This app displays popular securities traded in the financial world as pairs i.e currencies, cryptocurrencies or a mixture of both from [Stock API](https://financialmodelingprep.com/developer/docs/) 
 
+# Live Demo
+https://koomekevo-forexworld.netlify.app/
+
+# Presentation 
+https://www.loom.com/share/5127c260d47f40429608b74a1869f1e8
+
+# Screenshots
+### Home Page
+
+![](./src/assets/home.png)
+
+### Cryptos Page
+
+![](./src/assets/crypto3.png)
+
+### My Profile Page
+
+![](./src/assets/stock.png)
+
 ## Built With
 
 - React.js
@@ -42,6 +61,10 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+I have followed the [design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) given by [Nelson Sakwa in Behance](https://www.behance.net/sakwadesignstudio)
 
 ## 📝 License
 
